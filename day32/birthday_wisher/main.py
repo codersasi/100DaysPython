@@ -5,7 +5,7 @@ import pandas
 from datetime import datetime
 
 MY_EMAIL="sasi_ch85@yahoo.co.in"
-MY_PASSWD = "twkmmvozbjtukhul"
+MY_PASSWD = "Generate App Password"
 
 data = pandas.read_csv("birthdays.csv")
 
